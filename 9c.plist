@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.234.44:8080/9cAPPService/app/JiuCai1013.ipa</string>
+					<string>https://raw.githubusercontent.com/aklee/test/master/JiuCai1013.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
