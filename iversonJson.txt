@@ -1,16 +1,25 @@
 {
     "results": [
         {
+            "bundleId": "com.xmns.www",
+            "minimumOsVersion": "7.0",
+            "releaseNotes": "完善推送功能",
             "version": "1.0",
             "des": "111123asdfadsfs123",
             "downloadUrl": "https://www.pgyer.com/xmns"
         },
         {
+            "bundleId": "com.xmns.www",
+            "minimumOsVersion": "7.0",
+            "releaseNotes": "完善推送功能",
             "version": "2.0",
             "des": "222222",
             "downloadUrl": "https://www.pgyer.com/9cai"
         },
         {
+            "bundleId": "com.xmns.www",
+            "minimumOsVersion": "7.0",
+            "releaseNotes": "完善推送功能",
             "version": "3.0",
             "des": "asdfasdfsadf3333",
             "downloadUrl": "https://www.pgyer.com/9cai"
