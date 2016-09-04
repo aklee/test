@@ -19,10 +19,10 @@
         {
             "bundleId": "com.xmns.www",
             "minimumOsVersion": "7.0",
-            "releaseNotes": "完善推送功能",
+            "releaseNotes": "完善推送功123能4",
             "version": "3.0",
             "des": "asdfasdfsadf3333",
-            "downloadUrl": "https://www.pgyer.com/9cai"
+            "downloadUrl": ""
         }
     ]
 }
